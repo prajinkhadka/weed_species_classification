@@ -8,6 +8,19 @@ test and validiation set.
 
 Data can be loaded as  pytorch tensor using Datasetloader Class.
 
+Original Dataset Link - https://www.kaggle.com/coreylammie/deepweedsx
+
+### Citation :
+
+author={C. {Lammie} and A. {Olsen} and T. {Carrick} and M. R. {Azghadi}},
+
+journal={IEEE Access}, 
+
+title={Low-Power and High-Speed Deep FPGA Inference Engines for Weed Classification at the Edge},
+
+year={2019}, 
+
+
 ## MODEL 
 Used resnet18 - by changing and training the last layer training the last layer.
 
